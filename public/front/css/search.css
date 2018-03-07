@@ -1,0 +1,16 @@
+@charset "UTF-8";
+.tl_main{
+    padding: 10px;
+    margin-top:10px;
+}
+.lt_starch{
+    padding: 10px;
+
+}
+.search_input{
+    border:1px solid #007aff;
+    float: left;
+}
+.search_btn{
+    float: right;
+}
